@@ -24,27 +24,29 @@ This model attempts to classify patients into:
 1 → Presence of Heart Disease
 
 
+
 📊 Dataset
 
 The dataset used in this project is the Heart Disease Dataset from the UCI Machine Learning Repository.
 
 Dataset contains 14 medical attributes, including:
 
-Feature	Description
-age	Age of the patient
-sex	Gender of the patient
-cp	Chest pain type
-trestbps	Resting blood pressure
-chol	Serum cholesterol
-fbs	Fasting blood sugar
-restecg	Resting electrocardiographic results
-thalach	Maximum heart rate achieved
-exang	Exercise induced angina
-oldpeak	ST depression induced by exercise
-slope	Slope of peak exercise ST segment
-ca	Number of major vessels
-thal	Thalassemia
-target	Heart disease presence (0 or 1)
+| Feature  | Description                          |
+| -------- | ------------------------------------ |
+| age      | Age of the patient                   |
+| sex      | Gender of the patient                |
+| cp       | Chest pain type                      |
+| trestbps | Resting blood pressure               |
+| chol     | Serum cholesterol                    |
+| fbs      | Fasting blood sugar                  |
+| restecg  | Resting electrocardiographic results |
+| thalach  | Maximum heart rate achieved          |
+| exang    | Exercise induced angina              |
+| oldpeak  | ST depression induced by exercise    |
+| slope    | Slope of peak exercise ST segment    |
+| ca       | Number of major vessels              |
+| thal     | Thalassemia                          |
+| target   | Heart disease presence (0 or 1)      |
 
 Source:
 UCI Machine Learning Repository
