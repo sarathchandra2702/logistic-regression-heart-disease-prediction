@@ -1,5 +1,6 @@
 ❤️ Heart Disease Prediction using Logistic Regression
 
+
 📌 Project Overview
 
 Heart disease is one of the leading causes of death worldwide. Early detection can help prevent serious complications and improve patient outcomes.
@@ -7,6 +8,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 In this project, I built a Logistic Regression classification model that predicts whether a person is likely to have heart disease based on several medical attributes such as age, cholesterol levels, heart rate, and other clinical measurements.
 
 The goal of this project is to demonstrate how machine learning can assist healthcare professionals in identifying high-risk patients, potentially reducing the need for expensive or invasive diagnostic procedures.
+
 
 
 🎯 Problem Statement
@@ -22,6 +24,7 @@ This model attempts to classify patients into:
 0 → No Heart Disease
 
 1 → Presence of Heart Disease
+
 
 
 
@@ -50,6 +53,7 @@ Dataset contains 14 medical attributes, including:
 
 Source:
 UCI Machine Learning Repository
+
 
 
 🛠️ Project Workflow
@@ -121,6 +125,7 @@ From the exploratory analysis and modeling process, several insights emerged:
 -- These insights demonstrate how machine learning can support medical decision-making by identifying potential risk factors.
 
 
+
 🚀 Technologies Used
 
 Python
@@ -138,12 +143,14 @@ Scikit-learn
 Jupyter Notebook
 
 
+
 📂 Project Structure
 Logistic-Regression-Heart-Disease/
 │
 ├── Logistic-Regression-Project.ipynb
 ├── heart.xls
 ├── README.md
+
 
 
 🔮 Future Improvements
@@ -163,6 +170,7 @@ Hyperparameter tuning
 Feature engineering
 
 Deploying the model as a web application for real-time predictions
+
 
 
 🤝 Conclusion
