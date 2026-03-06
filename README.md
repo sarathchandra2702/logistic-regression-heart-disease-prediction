@@ -1,7 +1,7 @@
 ❤️ **Heart Disease Prediction using Logistic Regression**
 
 
-📌 Project Overview
+📌 **Project Overview**
 
 Heart disease is one of the leading causes of death worldwide. Early detection can help prevent serious complications and improve patient outcomes.
 
@@ -11,7 +11,7 @@ The goal of this project is to demonstrate how machine learning can assist healt
 
 
 
-🎯 Problem Statement
+🎯 **Problem Statement**
 
 Medical diagnosis often requires multiple clinical tests, which can be costly and time-consuming.
 
@@ -28,7 +28,7 @@ This model attempts to classify patients into:
 
 
 
-📊 Dataset
+📊 **Dataset**
 
 The dataset used in this project is the Heart Disease Dataset from the UCI Machine Learning Repository.
 
@@ -56,8 +56,8 @@ UCI Machine Learning Repository
 
 
 
-🛠️ Project Workflow
-1️⃣ Data Exploration
+🛠️ **Project Workflow**
+1️⃣ **Data Exploration**
 
 Checked for missing values
 
@@ -67,7 +67,7 @@ Analyzed distributions of features
 
 Visualized relationships between variables
 
-2️⃣ Exploratory Data Analysis
+2️⃣ **Exploratory Data Analysis**
 
 Key visualizations included:
 
@@ -79,7 +79,7 @@ Correlation analysis
 
 These steps helped identify patterns between health indicators and heart disease risk.
 
-3️⃣ Data Preprocessing
+3️⃣ **Data Preprocessing**
 
 Feature selection
 
@@ -87,7 +87,7 @@ Train-test split
 
 Data preparation for machine learning models
 
-4️⃣ Model Building
+4️⃣ **Model Building**
 
 A Logistic Regression model was trained to classify patients based on their medical attributes.
 
@@ -99,7 +99,7 @@ Provides interpretable results
 
 Helps understand feature influence on predictions
 
-5️⃣ Model Evaluation
+5️⃣ **Model Evaluation**
 
 The model performance was evaluated using:
 
@@ -112,7 +112,7 @@ Classification Metrics
 These metrics help assess how well the model distinguishes between patients with and without heart disease.
 
 
-📈 Key Insights from the Model
+📈 **Key Insights from the Model**
 
 From the exploratory analysis and modeling process, several insights emerged:
 
@@ -126,7 +126,7 @@ From the exploratory analysis and modeling process, several insights emerged:
 
 
 
-🚀 Technologies Used
+🚀 **Technologies Used**
 
 Python
 
@@ -144,7 +144,7 @@ Jupyter Notebook
 
 
 
-📂 Project Structure
+📂 **Project Structure**
 Logistic-Regression-Heart-Disease/
 │
 ├── Logistic-Regression-Project.ipynb
@@ -153,7 +153,7 @@ Logistic-Regression-Heart-Disease/
 
 
 
-🔮 Future Improvements
+🔮 **Future Improvements**
 
 Possible improvements for this project include:
 
@@ -173,6 +173,6 @@ Deploying the model as a web application for real-time predictions
 
 
 
-🤝 Conclusion
+🤝 **Conclusion**
 
 This project demonstrates how machine learning models like Logistic Regression can be applied to healthcare datasets to predict disease risk. With proper validation and further improvements, such models could assist doctors in early detection and preventive care strategies.
